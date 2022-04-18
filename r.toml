@@ -2,14 +2,40 @@
 name = "Ruby 2.4"
 desc = "Released on 2016.12.25"
 
+[ruby24]
+same = "'ruby2.4'"
+
 ["ruby2.5"]
 name = "Ruby 2.5"
 desc = "Released on 2017.12.25"
+
+[ruby25]
+same = "'ruby2.5'"
 
 ["ruby2.6"]
 name = "Ruby 2.6"
 desc = "Released on 2018.12.25"
 
+[ruby26]
+same = "'ruby2.6'"
+
 ["ruby2.7"]
 name = "Ruby 2.7"
 desc = "Released on 2019.12.25"
+
+[ruby27]
+same = "'ruby2.7'"
+
+["ruby3.0"]
+name = "Ruby 3.0"
+desc = "Released on 2020.12.25"
+
+[ruby30]
+same = "'ruby3.0'"
+
+["ruby3.1"]
+name = "Ruby 3.1"
+desc = "Released on 2021.12.25"
+
+[ruby31]
+same = "'ruby3.1'"
